@@ -1,0 +1,31 @@
+.apresentacao {
+    background-color: #f3dbe9;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.content {
+    color: #56235a;
+}
+
+.apresentacaoTitle {
+    font-family: 'Patua One', cursive;
+    font-size: 6rem;
+}
+
+.apresentacaoText {
+    font-size: 3rem;
+    line-height: 3.5rem;
+
+    padding-top: 1rem;
+}
+
+.apresentacaoText span {
+    color: #fd3c49;
+}
+
+.apresentacaoImg {
+    width: 65rem;
+}

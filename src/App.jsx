@@ -6,7 +6,8 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Header from './components/header/Header';
 
 // Pages
-import Home from './components/pages/home/Home'
+import Home from './pages/home/Home';
+
 function App() {
   
   return (
