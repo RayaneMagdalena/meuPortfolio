@@ -1,0 +1,37 @@
+.sobre {
+    background-color: #f5f5f5;
+
+    margin: 3rem;
+    padding: 2rem 4rem 0 4rem;
+
+    display: flex;
+    align-items: center;
+}
+
+.sobreImg {
+    max-width: 60rem;
+}
+
+.sobreText {
+    color: #642a68;
+}
+
+.sobreText h2 {
+    color: #56235a;
+}
+
+.sobreLinks {
+    font-size: 4rem;
+    padding-top: 7rem;
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.sobreLinksItem {
+    color: #f87f28;
+}
+
+.sobreLinksItem:hover {
+    color: #5a1b68;
+}
